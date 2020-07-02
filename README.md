@@ -1,3 +1,7 @@
+
+This repository was forked from [fool2fish](https://github.com/fool2fish).
+I am merely making slight corrections and improvements.
+
 # Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers
 # 编译原理（紫龙书）中文第2版习题答案
 
